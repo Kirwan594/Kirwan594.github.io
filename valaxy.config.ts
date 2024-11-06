@@ -16,7 +16,7 @@ export default defineValaxyConfig<UserThemeConfig>({
 
   themeConfig: {
     banner: {
-      enable: true,
+      enable: true
       title: '明辰君的小窝',
     },
 
