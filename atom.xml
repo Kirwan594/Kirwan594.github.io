@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://Kirwan594.github.io/</id>
+    <title>明辰君的小窝</title>
+    <updated>2024-11-06T12:42:46.389Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <author>
+        <name>明辰君</name>
+        <email>i@valaxy.site</email>
+        <uri>https://valaxy.site</uri>
+    </author>
+    <link rel="alternate" href="https://Kirwan594.github.io/"/>
+    <link rel="self" href="https://Kirwan594.github.io/atom.xml"/>
+    <subtitle>The garden of starlight.</subtitle>
+    <logo>https://valaxy.site/valaxy-logo.png</logo>
+    <icon>https://Kirwan594.github.io/favicon.svg</icon>
+    <rights>CC BY-NC-SA 4.0 2024 © 明辰君</rights>
+    <entry>
+        <title type="html"><![CDATA[第一个Post]]></title>
+        <id>https://Kirwan594.github.io/posts/hello-valaxy</id>
+        <link href="https://Kirwan594.github.io/posts/hello-valaxy"/>
+        <updated>2024-11-06T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<h2>Valaxy</h2>
+<p>Next Generation Static Blog Framework.</p>
+<p>Write your first post!</p>
+<h2>Usage</h2>
+<p>Modify `valaxy</p>
+<br/><p>访问 <a href="https://Kirwan594.github.io/posts/hello-valaxy" target="_blank">https://Kirwan594.github.io/posts/hello-valaxy</a> 阅读全文。</p>]]></content>
+        <author>
+            <name>明辰君</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2024-11-06T00:00:00.000Z</published>
+    </entry>
+</feed>

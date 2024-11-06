@@ -1,0 +1,26 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "明辰君的小窝",
+    "home_page_url": "https://Kirwan594.github.io/",
+    "feed_url": "https://Kirwan594.github.io/feed.json",
+    "description": "The garden of starlight.",
+    "icon": "https://valaxy.site/valaxy-logo.png",
+    "author": {
+        "name": "明辰君",
+        "url": "https://valaxy.site"
+    },
+    "items": [
+        {
+            "id": "",
+            "content_html": "<h2>Valaxy</h2>\n<p>Next Generation Static Blog Framework.</p>\n<p>Write your first post!</p>\n<h2>Usage</h2>\n<p>Modify `valaxy</p>\n<br/><p>访问 <a href=\"https://Kirwan594.github.io/posts/hello-valaxy\" target=\"_blank\">https://Kirwan594.github.io/posts/hello-valaxy</a> 阅读全文。</p>",
+            "url": "https://Kirwan594.github.io/posts/hello-valaxy",
+            "title": "第一个Post",
+            "date_modified": "2024-11-06T00:00:00.000Z",
+            "date_published": "2024-11-06T00:00:00.000Z",
+            "author": {
+                "name": "明辰君",
+                "url": "https://valaxy.site"
+            }
+        }
+    ]
+}
