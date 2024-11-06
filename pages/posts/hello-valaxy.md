@@ -1,11 +1,10 @@
 ---
-title: Hello, Valaxy!
-date: 2022-04-01
-updated: 2022-04-01
-categories: Valaxy 笔记
+title: 第一个Post
+date: 2024-11-06
+updated: 2024-11-06
+categories: 随笔
 tags:
-  - valaxy
-  - 笔记
+  - 随笔
 top: 1
 ---
 
